@@ -51,6 +51,7 @@
 
 
 ### Open-Vocabulary Semantic Segmentation
+
 1. <span id = "2001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/abs/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
 2. <span id = "2002">**[LLMFormer]**</span> | **IJCV'24** | LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://link-springer-com.remotexs.ntu.edu.sg/article/10.1007/s11263-024-02171-y)
 3. <span id = "2003">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
