@@ -5,7 +5,6 @@
 ## Contents
 
 <!-- vim-markdown-toc GitLab -->
-
 - [Awesome-MLLM-Segmentation](#awesome-mllm-segmentation)
   - [Contents](#contents)
   - [Image Segmentation](#image-segmentation)
