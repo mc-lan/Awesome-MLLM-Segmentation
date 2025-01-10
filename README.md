@@ -61,6 +61,7 @@
 5. <span id = "2005">**[Text4Seg]**</span> | **ArXiv'2410** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 
 ## Video Segmentation
+
 1. <span id = "3001">**[VISA]**</span> | **ECCV'24** | VISA: Reasoning Video Object Segmentation via Large Language Models | [`[pdf]`](https://arxiv.org/abs/2407.11325) | [`[code]`](https://github.com/cilinyan/VISA)
 2. <span id = "3002">**[VideoLISA]**</span> | **NeurIPS'24** | One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos | [`[pdf]`](https://arxiv.org/abs/2409.19603) | [`[code]`](https://github.com/showlab/VideoLISA)
 3. <span id = "3003">**[VITRON ]**</span> | **NeurIPS'24** | Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing | [`[pdf]`](https://arxiv.org/abs/2412.19806) | [`[code]`](https://github.com/SkyworkAI/Vitron)
