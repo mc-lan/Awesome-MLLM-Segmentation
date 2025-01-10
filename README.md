@@ -8,7 +8,7 @@
 - [Awesome-MLLM-Segmentation](#awesome-mllm-segmentation)
   - [Contents](#contents)
   - [Image Segmentation](#image-segmentation)
-    - [Referring Image Segmentation](#referring-image-segmentation)
+    - [Referring Expression Segmentation](#referring-expression-segmentation)
     - [Open-Vocabulary Semantic Segmentation](#open-vocabulary-semantic-segmentation)
   - [Video Segmentation](#video-segmentation)
   - [Feedback](#feedback)
@@ -17,7 +17,7 @@
 
 ## Image Segmentation
 
-### Referring Image Segmentation
+### Referring Expression Segmentation
 
 1. <span id = "1001">**[LISA]**</span> | **CVPR'24** | LISA: Reasoning Segmentation via Large Language Model | [`[pdf]`](https://arxiv.org/abs/2308.00692) | [`[code]`](https://github.com/dvlab-research/LISA)
 2. <span id = "1002">**[GLaMM]**</span> | **CVPR'24** | GLaMM: Pixel Grounding Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2311.03356) | [`[code]`](https://github.com/mbzuai-oryx/groundingLMM)
