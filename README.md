@@ -68,6 +68,7 @@
 5. <span id = "3005">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
 6. <span id = "3006">**[InstructSeg]**</span> | **ArXiv'2412** | InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2412.14006) | [`[code]`](https://github.com/congvvc/InstructSeg)
 7. <span id = "3007">**[Sa2VA]**</span> | **ArXiv'2501** | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | [`[pdf]`](https://arxiv.org/abs/2501.04001) | [`[code]`](https://github.com/magic-research/Sa2VA)
+8. <span id = "3008">**[VRS-HQ]**</span> | **ArXiv'2501** | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2501.08549) | [`[code]`](https://github.com/SitongGong/VRS-HQ)
 
 ## Feedback
 
