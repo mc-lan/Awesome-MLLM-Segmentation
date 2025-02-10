@@ -41,13 +41,13 @@
 20. <span id = "1020">**[u-LLaVA]**</span> | **ArXiv'2408** | u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model | [`[pdf]`](https://arxiv.org/abs/2311.05348) | [`[code]`](https://github.com/OPPOMKLab/u-LLaVA)
 21. <span id = "1021">**[UnifiedMLLM]**</span> | **ArXiv'2408** | UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model | [`[pdf]`](https://arxiv.org/abs/2408.02503) | [`[code]`](https://github.com/lzw-lzw/UnifiedMLLM)
 22. <span id = "1022">**[DIFFLMM]**</span> | **ArXiv'2410** | Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision | [`[pdf]`](https://arxiv.org/abs/2410.08209) | [`[code]`](https://github.com/Shengcao-Cao/groundLMM)
-23. <span id = "1023">**[SegLLM]**</span> | **ArXiv'2410** | SegLLM: Multi-round Reasoning Segmentation | [`[pdf]`](https://arxiv.org/pdf/2410.18923) | [`[code]`](https://github.com/berkeley-hipie/segllm)
+23. <span id = "1023">**[SegLLM]**</span> | **ICLR'25** | SegLLM: Multi-round Reasoning Segmentation | [`[pdf]`](https://arxiv.org/pdf/2410.18923) | [`[code]`](https://github.com/berkeley-hipie/segllm)
 24. <span id = "1024">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
 25. <span id = "1025">**[InstructSeg]**</span> | **ArXiv'2412** | InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2412.14006) | [`[code]`](https://github.com/congvvc/InstructSeg)
 26. <span id = "1026">**[PRIMA]**</span> | **ArXiv'2412** | PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2412.15209) | [`[code]`](https://plan-lab.github.io/projects/prima/)
 27. <span id = "1027">**[GeoGround]**</span> | **ArXiv'2411** | GeoGround: A Unified Large Vision-Language Model for Remote Sensing Visual Grounding | [`[pdf]`](https://arxiv.org/abs/2411.11904) | [`[code]`](https://github.com/zytx121/GeoGround)
 28. <span id = "1028">**[RSUniVLM]**</span> | **ArXiv'2412** | RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts | [`[pdf]`](https://arxiv.org/abs/2412.05679) | [`[code]`](https://github.com/xuliu-cyber/RSUniVLM)
-29. <span id = "1029">**[Text4Seg]**</span> | **ArXiv'2410** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
+29. <span id = "1029">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 30. <span id = "1030">**[Sa2VA]**</span> | **ArXiv'2501** | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | [`[pdf]`](https://arxiv.org/abs/2501.04001) | [`[code]`](https://github.com/magic-research/Sa2VA)
 
 
@@ -57,7 +57,7 @@
 2. <span id = "2002">**[LLMFormer]**</span> | **IJCV'24** | LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://link-springer-com.remotexs.ntu.edu.sg/article/10.1007/s11263-024-02171-y)
 3. <span id = "2003">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
 4. <span id = "2004">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
-5. <span id = "2005">**[Text4Seg]**</span> | **ArXiv'2410** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
+5. <span id = "2005">**[Text4Seg]**</span> | **ICLR2025** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 
 ## Video Segmentation
 
