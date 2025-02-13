@@ -37,7 +37,7 @@
 16. <span id = "1016">**[LaVASeg]**</span> | **ArXiv'2403** | Empowering Segmentation Ability to Multi-modal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2403.14141)
 17. <span id = "1017">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
 18. <span id = "1018">**[F-LMM]**</span> | **ArXiv'2406** | F-LMM: Grounding Frozen Large Multimodal Models | [`[pdf]`](https://arxiv.org/abs/2406.05821) | [`[code]`](https://github.com/wusize/F-LMM)
-19. <span id = "1019">**[SETOKIM]**</span> | **ArXiv'2406** | Towards Semantic Equivalence of Tokenization in Multimodal LLM | [`[pdf]`](https://arxiv.org/abs/2406.05127) | [`[code]`](https://github.com/wusize/F-LMM)
+19. <span id = "1019">**[SETOKIM]**</span> | **ICLR'25** | Towards Semantic Equivalence of Tokenization in Multimodal LLM | [`[pdf]`](https://arxiv.org/abs/2406.05127) | [`[code]`](https://github.com/wusize/F-LMM)
 20. <span id = "1020">**[u-LLaVA]**</span> | **ArXiv'2408** | u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model | [`[pdf]`](https://arxiv.org/abs/2311.05348) | [`[code]`](https://github.com/OPPOMKLab/u-LLaVA)
 21. <span id = "1021">**[UnifiedMLLM]**</span> | **ArXiv'2408** | UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model | [`[pdf]`](https://arxiv.org/abs/2408.02503) | [`[code]`](https://github.com/lzw-lzw/UnifiedMLLM)
 22. <span id = "1022">**[DIFFLMM]**</span> | **ArXiv'2410** | Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision | [`[pdf]`](https://arxiv.org/abs/2410.08209) | [`[code]`](https://github.com/Shengcao-Cao/groundLMM)
