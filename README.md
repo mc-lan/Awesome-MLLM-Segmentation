@@ -50,6 +50,8 @@
 29. <span id = "1029">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 30. <span id = "1030">**[Sa2VA]**</span> | **ArXiv'2501** | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | [`[pdf]`](https://arxiv.org/abs/2501.04001) | [`[code]`](https://github.com/magic-research/Sa2VA)
 
+31. <span id = "1031">**[MIRAS]**</span> | **ArXiv'2502** | Pixel-Level Reasoning Segmentation via Multi-turn Conversations | [`[pdf]`](https://arxiv.org/abs/2502.09447) | [`[code]`](https://github.com/ccccai239/PixelRIST)
+
 
 ### Open-Vocabulary Semantic Segmentation
 
