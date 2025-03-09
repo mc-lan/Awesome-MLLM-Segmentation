@@ -51,6 +51,7 @@
 30. <span id = "1030">**[Sa2VA]**</span> | **ArXiv'2501** | Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos | [`[pdf]`](https://arxiv.org/abs/2501.04001) | [`[code]`](https://github.com/magic-research/Sa2VA)
 31. <span id = "1031">**[MIRAS]**</span> | **ArXiv'2502** | Pixel-Level Reasoning Segmentation via Multi-turn Conversations | [`[pdf]`](https://arxiv.org/abs/2502.09447) | [`[code]`](https://github.com/ccccai239/PixelRIST)
 32. <span id = "1032">**[GeoPix]**</span> | **ArXiv'2501** | GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing | [`[pdf]`](https://arxiv.org/abs/2501.06828)
+33. <span id = "1033">**[UFO]**</span> | **ArXiv'2503** | UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface | [`[pdf]`](https://arxiv.org/abs/2503.01342) | [`[code]`](https://github.com/nnnth/UFO)
 
 ### Open-Vocabulary Semantic Segmentation
 
