@@ -54,7 +54,7 @@
 33. <span id = "1033">**[UFO]**</span> | **ArXiv'2503** | UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface | [`[pdf]`](https://arxiv.org/abs/2503.01342) | [`[code]`](https://github.com/nnnth/UFO)
 34. <span id = "1034">**[GroundingSuite]**</span> | **ArXiv'2503** | GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding | [`[pdf]`](https://arxiv.org/abs/2503.10596) | [`[code]`](https://github.com/hustvl/GroundingSuite)
 35. <span id = "1035">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
-36. <span id = "1035">**[Seg-Zero]**</span> | **ArXiv'2503** | Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement | [`[pdf]`](https://arxiv.org/abs/2503.06520) | [`[code]`](https://github.com/dvlab-research/Seg-Zero)
+36. <span id = "1036">**[Seg-Zero]**</span> | **ArXiv'2503** | Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement | [`[pdf]`](https://arxiv.org/abs/2503.06520) | [`[code]`](https://github.com/dvlab-research/Seg-Zero)
     
 ### Open-Vocabulary Semantic Segmentation
 
