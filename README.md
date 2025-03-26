@@ -62,7 +62,7 @@
 2. <span id = "2002">**[LLMFormer]**</span> | **IJCV'24** | LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://link-springer-com.remotexs.ntu.edu.sg/article/10.1007/s11263-024-02171-y)
 3. <span id = "2003">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
 4. <span id = "2004">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
-5. <span id = "2005">**[Text4Seg]**</span> | **ICLR2025** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
+5. <span id = "2005">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 
 ## Video Segmentation
