@@ -36,7 +36,7 @@
 15. <span id = "1015">**[VLTP]**</span> | **WACV'25** | VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation | [`[pdf]`](https://arxiv.org/abs/2409.08464) | [`[code]`](https://github.com/HanningChen/VLTP/tree/main)
 16. <span id = "1016">**[LaVASeg]**</span> | **ArXiv'2403** | Empowering Segmentation Ability to Multi-modal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2403.14141)
 17. <span id = "1017">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
-18. <span id = "1018">**[F-LMM]**</span> | **ArXiv'2406** | F-LMM: Grounding Frozen Large Multimodal Models | [`[pdf]`](https://arxiv.org/abs/2406.05821) | [`[code]`](https://github.com/wusize/F-LMM)
+18. <span id = "1018">**[F-LMM]**</span> | **CVPR'25** | F-LMM: Grounding Frozen Large Multimodal Models | [`[pdf]`](https://arxiv.org/abs/2406.05821) | [`[code]`](https://github.com/wusize/F-LMM)
 19. <span id = "1019">**[SETOKIM]**</span> | **ICLR'25** | Towards Semantic Equivalence of Tokenization in Multimodal LLM | [`[pdf]`](https://arxiv.org/abs/2406.05127) | [`[code]`](https://github.com/ChocoWu/SeTok)
 20. <span id = "1020">**[u-LLaVA]**</span> | **ArXiv'2408** | u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model | [`[pdf]`](https://arxiv.org/abs/2311.05348) | [`[code]`](https://github.com/OPPOMKLab/u-LLaVA)
 21. <span id = "1021">**[UnifiedMLLM]**</span> | **ArXiv'2408** | UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model | [`[pdf]`](https://arxiv.org/abs/2408.02503) | [`[code]`](https://github.com/lzw-lzw/UnifiedMLLM)
@@ -54,6 +54,7 @@
 33. <span id = "1033">**[UFO]**</span> | **ArXiv'2503** | UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface | [`[pdf]`](https://arxiv.org/abs/2503.01342) | [`[code]`](https://github.com/nnnth/UFO)
 34. <span id = "1034">**[GroundingSuite]**</span> | **ArXiv'2503** | GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding | [`[pdf]`](https://arxiv.org/abs/2503.10596) | [`[code]`](https://github.com/hustvl/GroundingSuite)
 35. <span id = "1035">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
+36. <span id = "1035">**[Seg-Zero]**</span> | **ArXiv'2503** | Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement | [`[pdf]`](https://arxiv.org/abs/2503.06520) | [`[code]`](https://github.com/dvlab-research/Seg-Zero)
     
 ### Open-Vocabulary Semantic Segmentation
 
@@ -62,7 +63,7 @@
 3. <span id = "2003">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
 4. <span id = "2004">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
 5. <span id = "2005">**[Text4Seg]**</span> | **ICLR2025** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
-6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMMHiMTok)
+6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 
 ## Video Segmentation
 
