@@ -56,6 +56,8 @@
 35. <span id = "1035">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 36. <span id = "1036">**[Seg-Zero]**</span> | **ArXiv'2503** | Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement | [`[pdf]`](https://arxiv.org/abs/2503.06520) | [`[code]`](https://github.com/dvlab-research/Seg-Zero)
 37. <span id = "1037">**[POPEN]**</span> | **CVPR'25** | POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2504.00640) | [`[code]`](https://lanyunzhu.site/POPEN)
+38. <span id = "1038">**[MMSA]**</span> | **ICLR'25** | MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2503.13881) | [`[code]`](https://github.com/jdg900/MMR)
+    
     
 ### Open-Vocabulary Semantic Segmentation
 
