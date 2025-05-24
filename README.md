@@ -59,7 +59,7 @@
 38. <span id = "1038">**[MMSA]**</span> | **ICLR'25** | MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2503.13881) | [`[code]`](https://github.com/jdg900/MMR)
 39. <span id = "1039">**[SegEarth-R1]**</span> | **ArXiv'2504** | SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model | [`[pdf]`](https://arxiv.org/abs/2504.09644) | [`[code]`](https://github.com/earth-insights/SegEarth-R1)
 40. <span id = "1040">**[Pixel-SAIL]**</span> | **ArXiv'2504** | Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding | [`[pdf]`](https://arxiv.org/abs/2504.10465) | [`[code]`](https://github.com/magic-research/Sa2VA)
-41. <span id = "1041">**[Pixel-SAIL]**</span> | **CVPR'25** | Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels | [`[pdf]`](https://arxiv.org/abs/2505.13788)
+41. <span id = "1041">**[Ground-V]**</span> | **CVPR'25** | Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels | [`[pdf]`](https://arxiv.org/abs/2505.13788)
     
     
 ### Open-Vocabulary Semantic Segmentation
