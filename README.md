@@ -61,6 +61,7 @@
 40. <span id = "1040">**[Pixel-SAIL]**</span> | **ArXiv'2504** | Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding | [`[pdf]`](https://arxiv.org/abs/2504.10465) | [`[code]`](https://github.com/magic-research/Sa2VA)
 41. <span id = "1041">**[Ground-V]**</span> | **CVPR'25** | Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels | [`[pdf]`](https://arxiv.org/abs/2505.13788)
 42. <span id = "1042">**[VistaLLM]**</span> | **CVPR'24** | Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model | [`[pdf]`](https://arxiv.org/abs/2312.12423)
+43. <span id = "1043">**[SegAgent]**</span> | **CVPR'25** | SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories | [`[pdf]`](https://arxiv.org/abs/2503.08625) | [`[code]`](https://github.com/aim-uofa/SegAgent)
     
     
 ### Open-Vocabulary Semantic Segmentation
