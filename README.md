@@ -62,7 +62,7 @@
 41. <span id = "1041">**[Ground-V]**</span> | **CVPR'25** | Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels | [`[pdf]`](https://arxiv.org/abs/2505.13788)
 42. <span id = "1042">**[VistaLLM]**</span> | **CVPR'24** | Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model | [`[pdf]`](https://arxiv.org/abs/2312.12423)
 43. <span id = "1043">**[SegAgent]**</span> | **CVPR'25** | SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories | [`[pdf]`](https://arxiv.org/abs/2503.08625) | [`[code]`](https://github.com/aim-uofa/SegAgent)
-    
+44. <span id = "1044">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
     
 ### Open-Vocabulary Semantic Segmentation
 
@@ -72,6 +72,7 @@
 4. <span id = "2004">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
 5. <span id = "2005">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
+7. <span id = "2007">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
 
 ## Video Segmentation
 
