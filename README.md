@@ -63,6 +63,7 @@
 42. <span id = "1042">**[VistaLLM]**</span> | **CVPR'24** | Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model | [`[pdf]`](https://arxiv.org/abs/2312.12423)
 43. <span id = "1043">**[SegAgent]**</span> | **CVPR'25** | SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories | [`[pdf]`](https://arxiv.org/abs/2503.08625) | [`[code]`](https://github.com/aim-uofa/SegAgent)
 44. <span id = "1044">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
+45. <span id = "1045">**[SAM-R1]**</span> | **ArXiv'2505** | SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.22596)
     
 ### Open-Vocabulary Semantic Segmentation
 
