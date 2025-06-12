@@ -64,7 +64,7 @@
 43. <span id = "1043">**[SegAgent]**</span> | **CVPR'25** | SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories | [`[pdf]`](https://arxiv.org/abs/2503.08625) | [`[code]`](https://github.com/aim-uofa/SegAgent)
 44. <span id = "1044">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
 45. <span id = "1045">**[SAM-R1]**</span> | **ArXiv'2505** | SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.22596)
-46. <span id = "1045">**[RSVP]**</span> | **ACL'25** | RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought | [`[pdf]`](https://www.arxiv.org/abs/2506.04277)
+46. <span id = "1046">**[RSVP]**</span> | **ACL'25** | RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought | [`[pdf]`](https://www.arxiv.org/abs/2506.04277)
     
 ### Open-Vocabulary Semantic Segmentation
 
