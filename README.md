@@ -65,7 +65,8 @@
 44. <span id = "1044">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
 45. <span id = "1045">**[SAM-R1]**</span> | **ArXiv'2505** | SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.22596)
 46. <span id = "1046">**[RSVP]**</span> | **ACL'25** | RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought | [`[pdf]`](https://www.arxiv.org/abs/2506.04277)
-    
+47. <span id = "1047">**[VRS-HQ]**</span> | **CVPR'25** | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2501.08549) | [`[code]`](https://github.com/SitongGong/VRS-HQ)
+
 ### Open-Vocabulary Semantic Segmentation
 
 1. <span id = "2001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/abs/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
