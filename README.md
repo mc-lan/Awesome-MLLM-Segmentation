@@ -66,6 +66,7 @@
 45. <span id = "1045">**[SAM-R1]**</span> | **ArXiv'2505** | SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.22596)
 46. <span id = "1046">**[RSVP]**</span> | **ACL'25** | RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought | [`[pdf]`](https://www.arxiv.org/abs/2506.04277)
 47. <span id = "1047">**[VRS-HQ]**</span> | **CVPR'25** | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2501.08549) | [`[code]`](https://github.com/SitongGong/VRS-HQ)
+48. <span id = "1048">**[VisionReasoner]**</span> | **Arxiv'2505** | VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.12081) | [`[code]`](https://github.com/dvlab-research/VisionReasoner)
 
 ### Open-Vocabulary Semantic Segmentation
 
