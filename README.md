@@ -69,6 +69,7 @@
 48. <span id = "1048">**[VisionReasoner]**</span> | **Arxiv'2505** | VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.12081) | [`[code]`](https://github.com/dvlab-research/VisionReasoner)
 49. <span id = "1049">**[PixelThink]**</span> | **Arxiv'2505** | PixelThink: Towards Efficient Chain-of-Pixel Reasoning | [`[pdf]`](https://arxiv.org/abs/2505.23727) | [`[code]`](https://github.com/songw-zju/PixelThink)
 50. <span id = "1050">**[Seg-R1]**</span> | **Arxiv'2506** | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | [`[pdf]`](https://www.arxiv.org/abs/2506.22624) | [`[code]`](https://github.com/geshang777/Seg-R1)
+51. <span id = "1051">**[HRSeg]**</span> | **Arxiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
 
 ### Open-Vocabulary Semantic Segmentation
 
