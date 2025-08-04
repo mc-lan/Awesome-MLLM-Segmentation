@@ -70,6 +70,7 @@
 49. <span id = "1049">**[PixelThink]**</span> | **Arxiv'2505** | PixelThink: Towards Efficient Chain-of-Pixel Reasoning | [`[pdf]`](https://arxiv.org/abs/2505.23727) | [`[code]`](https://github.com/songw-zju/PixelThink)
 50. <span id = "1050">**[Seg-R1]**</span> | **Arxiv'2506** | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | [`[pdf]`](https://www.arxiv.org/abs/2506.22624) | [`[code]`](https://github.com/geshang777/Seg-R1)
 51. <span id = "1051">**[HRSeg]**</span> | **Arxiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
+52. <span id = "1052">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
 
 ### Open-Vocabulary Semantic Segmentation
 
@@ -93,6 +94,7 @@
 8. <span id = "3008">**[VRS-HQ]**</span> | **CVPR'25** | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2501.08549) | [`[code]`](https://github.com/SitongGong/VRS-HQ)
 9. <span id = "3009">**[GLUS]**</span> | **CVPR'25** | GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation | [`[pdf]`](https://arxiv.org/abs/2504.07962) | [`[code]`](https://github.com/GLUS-video/GLUS)
 10. <span id = "3010">**[DeSa2VA]**</span> | **arXiv'2506** | Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder | [`[pdf]`](https://arxiv.org/abs/2506.22880) | [`[code]`](https://github.com/longmalongma/DeSa2VA)
+11. <span id = "3011">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
 
 ## Feedback
 
