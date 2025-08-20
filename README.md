@@ -95,6 +95,7 @@
 9. <span id = "3009">**[GLUS]**</span> | **CVPR'25** | GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation | [`[pdf]`](https://arxiv.org/abs/2504.07962) | [`[code]`](https://github.com/GLUS-video/GLUS)
 10. <span id = "3010">**[DeSa2VA]**</span> | **arXiv'2506** | Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder | [`[pdf]`](https://arxiv.org/abs/2506.22880) | [`[code]`](https://github.com/longmalongma/DeSa2VA)
 11. <span id = "3011">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
+12. <span id = "3012">**[Veason-R1]**</span> | **ICCV'25** | Reinforcing Video Reasoning Segmentation to Think Before It Segments | [`[pdf]`](https://arxiv.org/abs/2508.11538) | [`[code]`](https://github.com/SitongGong/Veason-R1)
 
 ## Feedback
 
