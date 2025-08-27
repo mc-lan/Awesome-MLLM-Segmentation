@@ -71,6 +71,7 @@
 50. <span id = "1050">**[Seg-R1]**</span> | **Arxiv'2506** | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | [`[pdf]`](https://www.arxiv.org/abs/2506.22624) | [`[code]`](https://github.com/geshang777/Seg-R1)
 51. <span id = "1051">**[HRSeg]**</span> | **Arxiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
 52. <span id = "1052">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
+53. <span id = "1053">**[LENS]**</span> | **Arxiv'2508** | LENS: Learning to Segment Anything with Unified Reinforced Reasoning | [`[pdf]`](https://arxiv.org/abs/2508.14153) | [`[code]`](https://github.com/hustvl/LENS)
 
 ### Open-Vocabulary Semantic Segmentation
 
