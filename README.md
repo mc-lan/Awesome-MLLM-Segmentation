@@ -66,12 +66,12 @@
 45. <span id = "1045">**[SAM-R1]**</span> | **ArXiv'2505** | SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.22596)
 46. <span id = "1046">**[RSVP]**</span> | **ACL'25** | RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought | [`[pdf]`](https://www.arxiv.org/abs/2506.04277)
 47. <span id = "1047">**[VRS-HQ]**</span> | **CVPR'25** | The Devil is in Temporal Token: High Quality Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2501.08549) | [`[code]`](https://github.com/SitongGong/VRS-HQ)
-48. <span id = "1048">**[VisionReasoner]**</span> | **Arxiv'2505** | VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.12081) | [`[code]`](https://github.com/dvlab-research/VisionReasoner)
-49. <span id = "1049">**[PixelThink]**</span> | **Arxiv'2505** | PixelThink: Towards Efficient Chain-of-Pixel Reasoning | [`[pdf]`](https://arxiv.org/abs/2505.23727) | [`[code]`](https://github.com/songw-zju/PixelThink)
-50. <span id = "1050">**[Seg-R1]**</span> | **Arxiv'2506** | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | [`[pdf]`](https://www.arxiv.org/abs/2506.22624) | [`[code]`](https://github.com/geshang777/Seg-R1)
-51. <span id = "1051">**[HRSeg]**</span> | **Arxiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
+48. <span id = "1048">**[VisionReasoner]**</span> | **ArXiv'2505** | VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning | [`[pdf]`](https://arxiv.org/abs/2505.12081) | [`[code]`](https://github.com/dvlab-research/VisionReasoner)
+49. <span id = "1049">**[PixelThink]**</span> | **ArXiv'2505** | PixelThink: Towards Efficient Chain-of-Pixel Reasoning | [`[pdf]`](https://arxiv.org/abs/2505.23727) | [`[code]`](https://github.com/songw-zju/PixelThink)
+50. <span id = "1050">**[Seg-R1]**</span> | **ArXiv'2506** | Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning | [`[pdf]`](https://www.arxiv.org/abs/2506.22624) | [`[code]`](https://github.com/geshang777/Seg-R1)
+51. <span id = "1051">**[HRSeg]**</span> | **ArXiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
 52. <span id = "1052">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
-53. <span id = "1053">**[LENS]**</span> | **Arxiv'2508** | LENS: Learning to Segment Anything with Unified Reinforced Reasoning | [`[pdf]`](https://arxiv.org/abs/2508.14153) | [`[code]`](https://github.com/hustvl/LENS)
+53. <span id = "1053">**[LENS]**</span> | **ArXiv'2508** | LENS: Learning to Segment Anything with Unified Reinforced Reasoning | [`[pdf]`](https://arxiv.org/abs/2508.14153) | [`[code]`](https://github.com/hustvl/LENS)
 
 ### Open-Vocabulary Semantic Segmentation
 
