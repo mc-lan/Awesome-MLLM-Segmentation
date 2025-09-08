@@ -72,6 +72,7 @@
 51. <span id = "1051">**[HRSeg]**</span> | **ArXiv'2507** | HRSeg: High-Resolution Visual Perception and Enhancement for Reasoning Segmentation | [`[pdf]`](https://www.arxiv.org/abs/2507.12883) | [`[code]`](https://github.com/WeihuangLin/HRSeg)
 52. <span id = "1052">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
 53. <span id = "1053">**[LENS]**</span> | **ArXiv'2508** | LENS: Learning to Segment Anything with Unified Reinforced Reasoning | [`[pdf]`](https://arxiv.org/abs/2508.14153) | [`[code]`](https://github.com/hustvl/LENS)
+54. <span id = "1054">**[X-SAM]**</span> | **ArXiv'2508** | X-SAM: From Segment Anything to Any Segmentation | [`[pdf]`](https://arxiv.org/abs/2508.04655) | [`[code]`](https://github.com/wanghao9610/X-SAM)
 
 ### Open-Vocabulary Semantic Segmentation
 
@@ -82,6 +83,7 @@
 5. <span id = "2005">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 7. <span id = "2007">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
+8. <span id = "2008">**[X-SAM]**</span> | **ArXiv'2508** | X-SAM: From Segment Anything to Any Segmentation | [`[pdf]`](https://arxiv.org/abs/2508.04655) | [`[code]`](https://github.com/wanghao9610/X-SAM)
 
 ## Video Segmentation
 
@@ -97,6 +99,8 @@
 10. <span id = "3010">**[DeSa2VA]**</span> | **ArXiv'2506** | Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder | [`[pdf]`](https://arxiv.org/abs/2506.22880) | [`[code]`](https://github.com/longmalongma/DeSa2VA)
 11. <span id = "3011">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
 12. <span id = "3012">**[Veason-R1]**</span> | **ArXiv'2508** | Reinforcing Video Reasoning Segmentation to Think Before It Segments | [`[pdf]`](https://arxiv.org/abs/2508.11538) | [`[code]`](https://github.com/SitongGong/Veason-R1)
+13. <span id = "3013">**[VoCap]**</span> | **ArXiv'2508** | VoCap: Video Object Captioning and Segmentation from Any Prompt | [`[pdf]`](https://arxiv.org/abs/2508.21809) | [`[code]`](https://github.com/google-deepmind/vocap)
+14. <span id = "3014">**[PixFoundation 2.0]**</span> | **ArXiv'2508** | PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding? | [`[pdf]`](https://arxiv.org/abs/2509.02807) | [`[code]`](https://github.com/MSiam/PixFoundation-2.0)
 
 ## Feedback
 
