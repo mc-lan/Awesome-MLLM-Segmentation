@@ -73,7 +73,8 @@
 52. <span id = "1052">**[OmniAVS]**</span> | **ICCV'25** | Towards Omnimodal Expressions and Reasoning in Referring Audio-Visual Segmentation | [`[pdf]`](https://arxiv.org/pdf/2507.22886) | [`[code]`](https://github.com/FudanCVL/OmniAVS)
 53. <span id = "1053">**[LENS]**</span> | **ArXiv'2508** | LENS: Learning to Segment Anything with Unified Reinforced Reasoning | [`[pdf]`](https://arxiv.org/abs/2508.14153) | [`[code]`](https://github.com/hustvl/LENS)
 54. <span id = "1054">**[X-SAM]**</span> | **ArXiv'2508** | X-SAM: From Segment Anything to Any Segmentation | [`[pdf]`](https://arxiv.org/abs/2508.04655) | [`[code]`](https://github.com/wanghao9610/X-SAM)
-55. <span id = "1055">**[Text4Seg++]**</span> | **ArXiv'2508** | Text4Seg++: Advancing Image Segmentation via Generative Language Modeling | [`[pdf]`](https://arxiv.org/abs/2509.06321) | [`[code]`](https://github.com/mc-lan/Text4Seg)
+55. <span id = "1055">**[Text4Seg++]**</span> | **ArXiv'2509** | Text4Seg++: Advancing Image Segmentation via Generative Language Modeling | [`[pdf]`](https://arxiv.org/abs/2509.06321) | [`[code]`](https://github.com/mc-lan/Text4Seg)
+56. <span id = "1056">**[SVP]**</span> | **ArXiv'2509** | Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2509.13676) |
 
 ### Open-Vocabulary Semantic Segmentation
 
