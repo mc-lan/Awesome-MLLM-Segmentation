@@ -75,6 +75,7 @@
 54. <span id = "1054">**[X-SAM]**</span> | **ArXiv'2508** | X-SAM: From Segment Anything to Any Segmentation | [`[pdf]`](https://arxiv.org/abs/2508.04655) | [`[code]`](https://github.com/wanghao9610/X-SAM)
 55. <span id = "1055">**[Text4Seg++]**</span> | **ArXiv'2509** | Text4Seg++: Advancing Image Segmentation via Generative Language Modeling | [`[pdf]`](https://arxiv.org/abs/2509.06321) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 56. <span id = "1056">**[SVP]**</span> | **ArXiv'2509** | Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2509.13676) |
+57. <span id = "1057">**[CoPRS]**</span> | **ArXiv'2510** | CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2510.11173) | [`[code]`](https://github.com/ZhenyuLU-Heliodore/CoPRS)
 
 ### Open-Vocabulary Semantic Segmentation
 
