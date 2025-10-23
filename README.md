@@ -53,7 +53,7 @@
 32. <span id = "1032">**[GeoPix]**</span> | **ArXiv'2501** | GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing | [`[pdf]`](https://arxiv.org/abs/2501.06828)
 33. <span id = "1033">**[UFO]**</span> | **ArXiv'2503** | UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface | [`[pdf]`](https://arxiv.org/abs/2503.01342) | [`[code]`](https://github.com/nnnth/UFO)
 34. <span id = "1034">**[GroundingSuite]**</span> | **ArXiv'2503** | GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding | [`[pdf]`](https://arxiv.org/abs/2503.10596) | [`[code]`](https://github.com/hustvl/GroundingSuite)
-35. <span id = "1035">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
+35. <span id = "1035">**[HiMTok]**</span> | **ICCV'25** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 36. <span id = "1036">**[Seg-Zero]**</span> | **ArXiv'2503** | Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement | [`[pdf]`](https://arxiv.org/abs/2503.06520) | [`[code]`](https://github.com/dvlab-research/Seg-Zero)
 37. <span id = "1037">**[POPEN]**</span> | **CVPR'25** | POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2504.00640) | [`[code]`](https://lanyunzhu.site/POPEN)
 38. <span id = "1038">**[MMSA]**</span> | **ICLR'25** | MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2503.13881) | [`[code]`](https://github.com/jdg900/MMR)
@@ -84,7 +84,7 @@
 3. <span id = "2003">**[LaSagnA]**</span> | **ArXiv'2404** | LaSagnA: Language-based Segmentation Assistant for Complex Queries | [`[pdf]`](https://arxiv.org/abs/2404.08506) | [`[code]`](https://github.com/congvvc/LaSagnA)
 4. <span id = "2004">**[HyperSeg]**</span> | **ArXiv'2411** | HyperSeg: Towards Universal Visual Segmentation with Large Language Model| [`[pdf]`](https://arxiv.org/abs/2411.17606) | [`[code]`](https://github.com/congvvc/HyperSeg)
 5. <span id = "2005">**[Text4Seg]**</span> | **ICLR'25** | Text4Seg: Reimagining Image Segmentation as Text Generation | [`[pdf]`](https://arxiv.org/abs/2410.09855) | [`[code]`](https://github.com/mc-lan/Text4Seg)
-6. <span id = "2006">**[HiMTok]**</span> | **ArXiv'2503** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
+6. <span id = "2006">**[HiMTok]**</span> | **ICCV'25** | HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model | [`[pdf]`](https://arxiv.org/abs/2503.13026) | [`[code]`](https://github.com/yayafengzi/LMM-HiMTok)
 7. <span id = "2007">**[ALTo]**</span> | **ArXiv'2505** | ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.16495) | [`[code]`](https://github.com/yayafengzi/ALToLLM)
 8. <span id = "2008">**[X-SAM]**</span> | **ArXiv'2508** | X-SAM: From Segment Anything to Any Segmentation | [`[pdf]`](https://arxiv.org/abs/2508.04655) | [`[code]`](https://github.com/wanghao9610/X-SAM)
 
