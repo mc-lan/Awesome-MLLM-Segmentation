@@ -76,6 +76,8 @@
 55. <span id = "1055">**[Text4Seg++]**</span> | **ArXiv'2509** | Text4Seg++: Advancing Image Segmentation via Generative Language Modeling | [`[pdf]`](https://arxiv.org/abs/2509.06321) | [`[code]`](https://github.com/mc-lan/Text4Seg)
 56. <span id = "1056">**[SVP]**</span> | **ArXiv'2509** | Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation | [`[pdf]`](https://arxiv.org/abs/2509.13676) |
 57. <span id = "1057">**[CoPRS]**</span> | **ArXiv'2510** | CoPRS: Learning Positional Prior from Chain-of-Thought for Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2510.11173) | [`[code]`](https://github.com/ZhenyuLU-Heliodore/CoPRS)
+58. <span id = "1058">**[PaDT]**</span> | **ArXiv'2510** | Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs | [`[pdf]`](https://arxiv.org/abs/2510.01954) | [`[code]`](https://github.com/Gorilla-Lab-SCUT/PaDT)
+59. <span id = "1059">**[LENS]**</span> | **ArXiv'2510** | Segmentation as A Plug-and-Play Capability for Frozen Multimodal LLMs | [`[pdf]`](https://arxiv.org/abs/2510.16785)
 
 ### Open-Vocabulary Semantic Segmentation
 
