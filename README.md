@@ -106,6 +106,7 @@
 12. <span id = "3012">**[Veason-R1]**</span> | **ArXiv'2508** | Reinforcing Video Reasoning Segmentation to Think Before It Segments | [`[pdf]`](https://arxiv.org/abs/2508.11538) | [`[code]`](https://github.com/SitongGong/Veason-R1)
 13. <span id = "3013">**[VoCap]**</span> | **ArXiv'2508** | VoCap: Video Object Captioning and Segmentation from Any Prompt | [`[pdf]`](https://arxiv.org/abs/2508.21809) | [`[code]`](https://github.com/google-deepmind/vocap)
 14. <span id = "3014">**[PixFoundation 2.0]**</span> | **ArXiv'2508** | PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding? | [`[pdf]`](https://arxiv.org/abs/2509.02807) | [`[code]`](https://github.com/MSiam/PixFoundation-2.0)
+15. <span id = "3015">**[DecAF]**</span> | **ArXiv'2510** | DecAF: Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2510.19592) | [`[code]`](https://github.com/HYUNJS/DecAF)
 
 ## Feedback
 
