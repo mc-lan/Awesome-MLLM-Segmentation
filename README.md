@@ -79,6 +79,7 @@
 58. <span id = "1058">**[PaDT]**</span> | **ArXiv'2510** | Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs | [`[pdf]`](https://arxiv.org/abs/2510.01954) | [`[code]`](https://github.com/Gorilla-Lab-SCUT/PaDT)
 59. <span id = "1059">**[LENS]**</span> | **ArXiv'2510** | Segmentation as A Plug-and-Play Capability for Frozen Multimodal LLMs | [`[pdf]`](https://arxiv.org/abs/2510.16785)
 60. <span id = "1060">**[ARGenSeg]**</span> | **NeurIPS'25** | ARGenSeg: Image Segmentation with Autoregressive Image Generation Model | [`[pdf]`](https://arxiv.org/abs/2510.20803)
+61. <span id = "1061">**[UniPixel]**</span> | **NeurIPS'25** | UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning | [`[pdf]`](https://arxiv.org/abs/2509.18094) | [`[code]`](https://github.com/PolyU-ChenLab/UniPixel)
 
 ### Open-Vocabulary Semantic Segmentation
 
@@ -108,6 +109,8 @@
 13. <span id = "3013">**[VoCap]**</span> | **ArXiv'2508** | VoCap: Video Object Captioning and Segmentation from Any Prompt | [`[pdf]`](https://arxiv.org/abs/2508.21809) | [`[code]`](https://github.com/google-deepmind/vocap)
 14. <span id = "3014">**[PixFoundation 2.0]**</span> | **ArXiv'2508** | PixFoundation 2.0: Do Video Multi-Modal LLMs Use Motion in Visual Grounding? | [`[pdf]`](https://arxiv.org/abs/2509.02807) | [`[code]`](https://github.com/MSiam/PixFoundation-2.0)
 15. <span id = "3015">**[DecAF]**</span> | **ArXiv'2510** | DecAF: Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2510.19592) | [`[code]`](https://github.com/HYUNJS/DecAF)
+16. <span id = "3016">**[UniPixel]**</span> | **NeurIPS'25** | UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning | [`[pdf]`](https://arxiv.org/abs/2509.18094) | [`[code]`](https://github.com/PolyU-ChenLab/UniPixel)
+
 
 ## Feedback
 
