@@ -80,8 +80,9 @@
 59. <span id = "1059">**[LENS]**</span> | **ArXiv'2510** | Segmentation as A Plug-and-Play Capability for Frozen Multimodal LLMs | [`[pdf]`](https://arxiv.org/abs/2510.16785)
 60. <span id = "1060">**[ARGenSeg]**</span> | **NeurIPS'25** | ARGenSeg: Image Segmentation with Autoregressive Image Generation Model | [`[pdf]`](https://arxiv.org/abs/2510.20803)
 61. <span id = "1061">**[UniPixel]**</span> | **NeurIPS'25** | UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning | [`[pdf]`](https://arxiv.org/abs/2509.18094) | [`[code]`](https://github.com/PolyU-ChenLab/UniPixel)
+62. <span id = "1062">**[READ]**</span> | **CVPR'25** | Reasoning to Attend: Try to Understand How <SEG> Token Works | [`[pdf]`](https://arxiv.org/abs/2412.17741) | [`[code]`](https://github.com/rui-qian/READ)
 
-### Open-Vocabulary Semantic Segmentation
+### Open-Vocabulary Semantic SegmentationS
 
 1. <span id = "2001">**[PSALM]**</span> | **ECCV'24** | PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model | [`[pdf]`](https://arxiv.org/abs/2403.14598) | [`[code]`](https://github.com/zamling/PSALM)
 2. <span id = "2002">**[LLMFormer]**</span> | **IJCV'24** | LLMFormer: Large Language Model for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://link-springer-com.remotexs.ntu.edu.sg/article/10.1007/s11263-024-02171-y)
