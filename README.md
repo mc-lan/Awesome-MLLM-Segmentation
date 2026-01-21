@@ -83,6 +83,7 @@
 62. <span id = "1062">**[READ]**</span> | **CVPR'25** | Reasoning to Attend: Try to Understand How <SEG> Token Works | [`[pdf]`](https://arxiv.org/abs/2412.17741) | [`[code]`](https://github.com/rui-qian/READ)
 63. <span id = "1063">**[UniGeoSeg]**</span> | **ArXiv'2511** | UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes | [`[pdf]`](https://www.arxiv.org/abs/2511.23332) | [`[code]`](https://github.com/MiliLab/UniGeoSeg)
 64. <span id = "1064">**[STAMP]**</span> | **ArXiv'2511** | Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction | [`[pdf]`](https://www.arxiv.org/abs/2512.00395) | [`[code]`](https://github.com/HKUST-LongGroup/STAMP)
+65. <span id = "1065">**[GETok]**</span> | **ArXiv'2512** | Grounding Everything in Tokens for Multimodal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2512.10554) | [`[code]`](https://getokpage.github.io/)
 
 ### Open-Vocabulary Semantic SegmentationS
 
