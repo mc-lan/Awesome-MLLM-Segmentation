@@ -2,7 +2,7 @@
 
 **If you find this project helpful, please consider giving it a star ⭐.**
 
-**Last Updated: 2026-08-29**
+**Last Updated: 2026-09-26**
 
 New updates are added directly to their corresponding sections.
 
@@ -97,7 +97,7 @@ New updates are added directly to their corresponding sections.
 72. <span id = "1072">**[LlamaSeg]**</span> | **ArXiv'2505** | LlamaSeg: Image Segmentation via Autoregressive Mask Generation | [`[pdf]`](https://arxiv.org/abs/2505.19422)
 73. <span id = "1073">**[MedSeg-R]**</span> | **ArXiv'2506** | MedSeg-R: Medical Image Segmentation with Domain Alignment and RL for Reasoning | [`[pdf]`](https://arxiv.org/abs/2506.10465)
 74. <span id = "1074">**[SegEarth-R2]**</span> | **ArXiv'2512** | SegEarth-R2: Geospatial Multimodal Large Language Model for Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2512.20013) | [`[code]`](https://github.com/earth-insights/SegEarth-R2)
-75. <span id = "1075">**[DR^2Seg]**</span> | **ArXiv'2601** | DR^2Seg: Decomposed Reflective Reinforcement Learning for Multimodal Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2601.09981)
+75. <span id = "1075">**[DR^2Seg]**</span> | **ArXiv'2601** | DR^2Seg: Decomposed Two-Stage Rollouts for Efficient Reasoning Segmentation in Multimodal Large Language Models | [`[pdf]`](https://arxiv.org/abs/2601.09981)
 76. <span id = "1076">**[PixDLM]**</span> | **CVPR'26** | PixDLM: A Dual-Path Multimodal Language Model for UAV Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2604.15670)
 77. <span id = "1077">**[UGround]**</span> | **ICML'26** | UGround: Towards Unified Visual Grounding with Unrolled Transformers | [`[pdf]`](https://arxiv.org/abs/2510.03853) | [`[code]`](https://github.com/rui-qian/UGround)
 78. <span id = "1078">**[Dr. Seg]**</span> | **CVPR'26** | Dr. Seg: Revisiting GRPO Training for Visual Large Language Models through Perception-Oriented Design | [`[pdf]`](https://arxiv.org/abs/2603.00152) | [`[code]`](https://github.com/eVI-group-SCU/Dr-Seg)
@@ -133,6 +133,10 @@ New updates are added directly to their corresponding sections.
 108. <span id = "1108">**[DRAgent]**</span> | **ArXiv'2608** | DRAgent: Discriminative Reasoning Agent for Referring Expression Segmentation | [`[pdf]`](https://arxiv.org/abs/2608.22885)
 109. <span id = "1109">**[PAYN]**</span> | **ICML'26** | Position Is All You Need: A Free Lunch Token Compression Strategy for MLLM-based Referring Expression Segmentation | [`[pdf]`](https://arxiv.org/abs/2608.26142) | [`[code]`](https://github.com/YuhanLiu231/PAYN)
 110. <span id = "1110">**[MedREAL]**</span> | **ECCV'26** | From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation | [`[pdf]`](https://arxiv.org/abs/2608.26856)
+111. <span id = "1111">**[SeGDeP]**</span> | **ArXiv'2609** | SeGDeP: Semantic- and Geometric-Aware Decoupled Prompts for Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2609.08867)
+112. <span id = "1112">**[AgriScope]**</span> | **ArXiv'2609** | AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images | [`[pdf]`](https://arxiv.org/abs/2609.20325) | [`[project]`](https://github.com/boudiafA/AgriScope)
+113. <span id = "1113">**[MLLM Point Prompts]**</span> | **ArXiv'2609** | Adapting Open-Weight MLLMs to Generate Point Prompts for Electron Microscopy Segmentation | [`[pdf]`](https://arxiv.org/abs/2609.14080)
+114. <span id = "1114">**[PSMA PET/CT VLM]**</span> | **ArXiv'2609** | A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation | [`[pdf]`](https://arxiv.org/abs/2609.15603)
 
 ### Open-Vocabulary Semantic Segmentation
 
@@ -150,6 +154,9 @@ New updates are added directly to their corresponding sections.
 12. <span id = "2012">**[DSLO]**</span> | **CVPR'26** | Direct Segmentation without Logits Optimization for Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2604.07723)
 13. <span id = "2013">**[ProC-SAM3]**</span> | **GRSL'26** | Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2606.21863) | [`[code]`](https://github.com/YanghuiSong/ProC-SAM3)
 14. <span id = "2014">**[STAMPlus]**</span> | **ArXiv'2608** | Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation | [`[pdf]`](https://arxiv.org/abs/2608.02791)
+15. <span id = "2015">**[DAF]**</span> | **ArXiv'2608** | Towards Continual Test-Time Adaptation of Vision-Language Models in Open-Vocabulary Semantic Segmentation | [`[pdf]`](https://arxiv.org/abs/2608.29923) | [`[code]`](https://github.com/chandlerbing65nm/DAF)
+16. <span id = "2016">**[SatOV]**</span> | **ArXiv'2609** | SatOV: Restoring Spatial Priors for Training-Free Open-Vocabulary Segmentation in Remote Sensing Imagery | [`[pdf]`](https://arxiv.org/abs/2609.22834)
+17. <span id = "2017">**[HyperCLIP++]**</span> | **ArXiv'2609** | HyperCLIP++: Fine-tuning CLIP for Open-Vocabulary Semantic Segmentation in Hyperbolic Space | [`[pdf]`](https://arxiv.org/abs/2609.24564)
 
 ## Video Segmentation
 
@@ -182,6 +189,8 @@ New updates are added directly to their corresponding sections.
 27. <span id = "3027">**[STAC]**</span> | **ArXiv'2607** | STAC: Selective Spatiotemporal Aggregation and Compression for Video Reasoning Segmentation | [`[pdf]`](https://arxiv.org/abs/2607.02922) | [`[code]`](https://github.com/MCG-NKU/nku-video)
 28. <span id = "3028">**[ReflexTrack]**</span> | **ArXiv'2607** | ReflexTrack: A Feedback-Driven Agent for Training-Free Referring Video Object Segmentation | [`[pdf]`](https://arxiv.org/abs/2607.24098)
 29. <span id = "3029">**[PhysMLLMs]**</span> | **ArXiv'2608** | PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos | [`[pdf]`](https://arxiv.org/abs/2608.24574) | [`[code]`](https://github.com/tusu-code/20260121-icml2026-2)
+30. <span id = "3030">**[MLLM-Assisted Audio VOS]**</span> | **ArXiv'2608** | MLLM-Assisted Audio VOS: A 3rd Place Report for the MeViS-Audio Track, 8th LSVOS Challenge | [`[pdf]`](https://arxiv.org/abs/2608.23234)
+31. <span id = "3031">**[MoVISA]**</span> | **ArXiv'2609** | MoVISA: Multi-Token Reasoning for Video Object Segmentation | [`[pdf]`](https://arxiv.org/abs/2609.28956)
 
 
 ## Feedback
